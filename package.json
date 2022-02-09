@@ -1,0 +1,20 @@
+{
+  "name": "twitterchal",
+  "version": "1.0.0",
+  "description": "Réquipère dans une dataBase les concours actuelle et s'abonne en retour selon les conditions demandé (Retwitte, abonnement, ect.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliv42/twitterChal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliv42/twitterChal/issues"
+  },
+  "homepage": "https://github.com/oliv42/twitterChal#readme"
+}
